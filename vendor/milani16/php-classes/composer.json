@@ -1,0 +1,22 @@
+{
+    "name": "milani16/php-classes",
+    "minimum-stability": "dev",
+    "type": "library",
+    "description": "Classes PHP",
+    "homepage": "https://github.com/milani16/php-classes",
+    "authors": [
+        {
+            "name": "gabriel elias milani",
+            "email": "milani1610@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "rain/raintpl":"3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    }
+}

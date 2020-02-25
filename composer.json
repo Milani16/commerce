@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\milani16\\php-classes\\src"
+            "milani16\\": "vendor\\milani16\\php-classes\\src"
         }
     }
 }
